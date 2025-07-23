@@ -32,3 +32,4 @@ This is your **first JavaScript project from scratch**, so remember the steps:
 - Test the connection:
   ```js
   console.log("Hello World");
+    
