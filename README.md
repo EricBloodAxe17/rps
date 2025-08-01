@@ -17,7 +17,7 @@ Play against the computer, see who wins, and track your score live. 🧠💥
 
 ## 🖥️  Live Demo
 
-👉🏼[RPS](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+👉🏼[RPS](https://ericbloodaxe17.github.io/rps/)
 
 ---
 
